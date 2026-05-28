@@ -1,6 +1,6 @@
-# AIBirds - DQN Agent for Science Birds
+# MacOS AIBirds - DQN Agent for Science Birds
 
-![AIBirds Demo](Aibirds.gif)
+![AIBirds Demo](AibirdsDemo.gif)
 
 MacOS 기반으로 Angry Birds (Science Birds) 게임을 Deep Q-Network (DQN)으로 자동 플레이하는 강화학습 에이전트입니다.
 
