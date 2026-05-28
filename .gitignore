@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info
+/build/
+/dist/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+/.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Training output
+out/
+models_v2/
+*.h5
+
+# Game binaries (too large for GitHub)
+ScienceBirds/
+ScienceBirds_Source/
+
+# Data
+/DB/
+serverbackup
+
+# Agent output from Java server
+ScienceBirds/MacOS/Agent_*/
+
+# Misc
+*.txt
+!requirements.txt
+!levelgenerator/parameters.txt
