@@ -4,7 +4,9 @@
 
 MacOS 기반으로 Angry Birds (Science Birds) 게임을 Deep Q-Network (DQN)으로 자동 플레이하는 강화학습 에이전트입니다.
 
-## 일부 레벨 안정성 문제로 시뮬레이션 실행 즉시 창을 최소화해야 합니다
+## 한계
+- 일부 레벨 안정성 문제로 시뮬레이션 실행 즉시 창을 최소화해야 합니다
+- load_level()명령어 사용불가, load_next_level()만 사용해 레벨을 전환해야 합니다. xml구조를 재생성하여 학습하는 것을 추천합니다.
 
 게임 시뮬레이터: [Science Birds Framework](https://gitlab.com/aibirds/sciencebirdsframework)
 
