@@ -2,6 +2,8 @@
 
 Angry Birds (Science Birds) 게임을 Deep Q-Network (DQN)으로 자동 플레이하는 강화학습 에이전트입니다.
 
+## 일부 레벨 안정성 문제로 시뮬레이션 실행 즉시 창을 최소화해야 합니다
+
 게임 시뮬레이터: [Science Birds Framework](https://gitlab.com/aibirds/sciencebirdsframework)
 
 ## 주요 특징
